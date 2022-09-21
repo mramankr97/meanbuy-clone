@@ -14,7 +14,7 @@ https://symphonious-liger-8b365d.netlify.app/
 <p>Payment</p>
 <div><h4>Tech Stack: HTML | CSS | Javascript</h4></div>
 <h3>Areas of responsibility:</h3>
-<p>Create a website landing page.</p>
-<p>Lay out the database schema and build local storage.</p>
+<p>Create a website login and signup page.</p>
+
 <p>A collaborative project built by a team of six was executed in five days.</p>
 
